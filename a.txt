@@ -1,1 +1,3 @@
 first file
+adding a line -stage G-
+adding some content -stage O-
